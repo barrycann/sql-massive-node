@@ -1,0 +1,1 @@
+SELECT name, description, price, imageUrl FROM products;
